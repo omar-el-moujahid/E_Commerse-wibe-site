@@ -1,0 +1,15 @@
+.navbar-toggler:focus + #navbarNav.collapse:not(.show) {
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+.navbar-toggler:focus + #navbarNav.collapse:not(.show) {
+    display: block;
+}
+
+.navbar-toggler:focus + #navbarNav.collapse:not(.show) .nav-item {
+    font-weight: 700;
+    border-top: 3px solid black;
+}
+
